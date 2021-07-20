@@ -1,0 +1,9 @@
+
+nav{
+    > ul{display: flex;}
+}
+.header-top{justify-content: space-between;width: 100% ;
+    .logo{margin: 0;}
+    .right-cap-area{display: flex;justify-content: space-between;margin: 0;}
+    #mobile-menu{display: none;}
+}

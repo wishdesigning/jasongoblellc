@@ -1,0 +1,138 @@
+// Color system
+$color-base: rgba(0, 0, 0, 0.85);
+$color-base-light: rgba(0, 0, 0, 0.45);
+
+$white: #fff;
+$gray: #f8f9fa;
+$black: #000;
+$black-gray-bg: #282828;;
+$black-gray-color: #282828;
+
+$blue: #007bff;
+$yellow: #ffc107;
+$green: #4C9F16;
+$primary: $blue;
+$secondary: $gray;
+$success: $green;
+$warning: $yellow;
+$danger: #fc5909;
+$blue: #247EFF;
+
+
+
+// Body
+//
+// Settings for the `<body>` element.
+$font-size-base: 14px;
+$font-size-base-sm: 12px;
+$font-fbase: 'Roboto', sans-serif;
+$font-weight-normal: 400;
+
+$body-bg: #F5F5F5;
+$white-bg: #fff;
+
+// Paragraphs
+//
+// Style p element.
+$paragraph-margin-bottom: 20px;
+$brand-color: #6A69EC;
+$brand-color-bg: linear-gradient(90deg, #6A69EC 0%, #8E42C8 100%);
+$brand-color-bg-dark:#6A69EC;
+$btn-brand-bg-dark: #6A69EC; 
+
+// Typography
+//
+// Font, line-height, and color for body text, headings, and more.
+$font-fbase: 'Roboto', sans-serif;
+$heading-margin-bottom: 20px;
+$h1-font-size: 28px;
+$h2-font-size: 26px;
+$h3-font-size: 18px;
+$h4-font-size: 22px;
+$h5-font-size: 20px;
+$h6-font-size: 18px;
+
+// Forms
+$btn-font-size: 14px;
+$btn-padding:11px 15px;
+$btn-bdr-padding:9px 15px;
+$btn-color: #fff;
+$btn-color-bg: #333333;
+$btn-border-color: #333333;
+$btn-focus-border: #333333;
+$btn-focus-color: #fff;
+$btn-focus-color-bg: $btn-brand-bg-dark;
+
+$btn-brand-bg:linear-gradient(90deg, #6A69EC 0%, #8E42C8 100%);
+$btn-brand-bdr: rgba(0,0,0,0);
+$btn-brand-color: #fff;
+$btn-focus-brand-bg:linear-gradient(90deg, #6A69EC 0%, #6A69EC 100%);
+$btn-focus-brand-bdr: rgba(0,0,0,0);
+$btn-focus-brand-color: #fff;
+
+$btn-success-bg: $green;
+$btn-success-bdr: $green;
+$btn-success-color: #fff;
+$btn-focus-success-bg:#fff;
+$btn-focus-success-bdr: $green;
+$btn-focus-success-color: $green;
+
+$btn-blue-bg: $blue;
+$btn-blue-bdr: $blue;
+$btn-blue-color: #fff;
+$btn-focus-blue-bg:#fff;
+$btn-focus-blue-bdr: $blue;
+$btn-focus-blue-color: $blue;
+
+$btn-danger-bg: #a50808;
+$btn-danger-bdr: #a50808;
+$btn-danger-color: #fff;
+$btn-focus-danger-bg:#fff;
+$btn-focus-danger-bdr: #a50808;
+$btn-focus-danger-color: #a50808;
+
+$btn-warning-bg: $warning;
+$btn-warning-bdr: $warning;
+$btn-warning-color: #fff;
+$btn-focus-warning-bg:#fff;
+$btn-focus-warning-bdr: $warning;
+$btn-focus-warning-color: $warning;
+
+$btn-gray-bg: #C9C8C7;
+$btn-gray-bdr: #C9C8C7;
+$btn-gray-color: #fff;
+$btn-focus-gray-color: #fff;
+$btn-focus-gray-bg:$btn-brand-bg-dark;
+$btn-focus-gray-bdr: #282828;
+$btn-focus-gray-color: #282828;
+
+$btn-bdr-bg: rgba(0,0,0,0);
+$btn-bdr-color: #fff;
+$btn-bdrcolor: #fff;
+
+$btn-bdr-black-bg: rgba(0,0,0,0);
+$btn-bdr-black-color: #172b54;
+$btn-bdr-black-color: #172b54;
+$btn-focus-bdr-black-bg: rgb(243, 243, 243);
+$btn-focus-bdr-black-color: #172b54;
+$btn-focus-bdr-black-color: #172b54;
+
+$label-color: #333;
+$label-font-size: 13px;
+$label-margin-bottom: 5px;
+
+$input-placeholder-color:rgba(25, 25, 25, 0.5);
+$input-padding: 7px 15px;
+$input-color:#22242A;
+$input-bg: #F4F5F5;
+$input-font-size: 13px;
+$input-border-color: #ECECEC;
+$input-border-color-focus: $brand-color;
+
+$lblrequired:#ff615e;
+$error-color:#ff615e;
+
+$color-link: $brand-color;
+$color-link-hover: $brand-color;
+
+$white-bdr: #fff;

@@ -1,14 +1,14 @@
 // Color system
-$color-base: rgba(0, 0, 0, 0.85);
-$color-base-light: rgba(0, 0, 0, 0.45);
+$color-base: #1F0A39;
+$color-base-light:#5B6770;
 
 $white: #fff;
-$gray: #f8f9fa;
-$black: #000;
-$black-gray-bg: #282828;;
+$gray: #ECEEF9;
+$black: #1F0A39;
+$black-gray-bg: #F8F8FF;;
 $black-gray-color: #282828;
 
-$blue: #007bff;
+$blue: #0C29DA;
 $yellow: #ffc107;
 $green: #4C9F16;
 $primary: $blue;
@@ -35,38 +35,38 @@ $white-bg: #fff;
 //
 // Style p element.
 $paragraph-margin-bottom: 20px;
-$brand-color: #6A69EC;
-$brand-color-bg: linear-gradient(90deg, #6A69EC 0%, #8E42C8 100%);
-$brand-color-bg-dark:#6A69EC;
-$btn-brand-bg-dark: #6A69EC; 
+$brand-color: #0C29DA;
+$brand-color-bg:linear-gradient(103deg, #0D2CDB 0%, #037CDF 100%);
+$brand-color-bg-dark:#0C29DA;
+$btn-brand-bg-dark: #0D2CDB; 
 
 // Typography
 //
 // Font, line-height, and color for body text, headings, and more.
-$font-fbase: 'Roboto', sans-serif;
+$font-fbase: "Montserrat";
 $heading-margin-bottom: 20px;
-$h1-font-size: 28px;
-$h2-font-size: 26px;
-$h3-font-size: 18px;
-$h4-font-size: 22px;
+$h1-font-size: 46px;
+$h2-font-size: 40px;
+$h3-font-size: 38px;
+$h4-font-size: 36px;
 $h5-font-size: 20px;
 $h6-font-size: 18px;
 
 // Forms
-$btn-font-size: 14px;
-$btn-padding:11px 15px;
-$btn-bdr-padding:9px 15px;
-$btn-color: #fff;
-$btn-color-bg: #333333;
-$btn-border-color: #333333;
-$btn-focus-border: #333333;
-$btn-focus-color: #fff;
-$btn-focus-color-bg: $btn-brand-bg-dark;
+$btn-font-size: 16px;
+$btn-padding:18px 35px;
+$btn-bdr-padding:17px 35px;
+$btn-color: #0C29DA;
+$btn-color-bg: transparent;
+$btn-border-color: transparent;
+$btn-focus-border: transparent;
+$btn-focus-color: #0C29DA;
+$btn-focus-color-bg: transparent;
 
-$btn-brand-bg:linear-gradient(90deg, #6A69EC 0%, #8E42C8 100%);
+$btn-brand-bg:linear-gradient(103deg, #0D2CDB 0%, #037CDF 100%);
 $btn-brand-bdr: rgba(0,0,0,0);
 $btn-brand-color: #fff;
-$btn-focus-brand-bg:linear-gradient(90deg, #6A69EC 0%, #6A69EC 100%);
+$btn-focus-brand-bg:linear-gradient(103deg, #037CDF 0%, #0D2CDB 100%);
 $btn-focus-brand-bdr: rgba(0,0,0,0);
 $btn-focus-brand-color: #fff;
 
@@ -107,8 +107,8 @@ $btn-focus-gray-bdr: #282828;
 $btn-focus-gray-color: #282828;
 
 $btn-bdr-bg: rgba(0,0,0,0);
-$btn-bdr-color: #fff;
-$btn-bdrcolor: #fff;
+$btn-bdr-color: #006CEB;
+$btn-bdrcolor: #0C29DA;
 
 $btn-bdr-black-bg: rgba(0,0,0,0);
 $btn-bdr-black-color: #172b54;

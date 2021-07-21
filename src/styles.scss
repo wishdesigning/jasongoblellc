@@ -1,4 +1,6 @@
 /* You can add global styles to this file, and also import other style files */
-@import "assets/scss/_variable";
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&display=swap');
+@import "assets/scss/_variable.scss";
 @import "assets/scss/reset.scss";
 @import "assets/scss/main.scss";
+@import "assets/scss/slick.css";
